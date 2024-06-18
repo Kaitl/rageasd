@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+}
+#spammy{
+    font-size: 25px;
+    float: left;
+    margin-left: 10px;
+}
+#Timmy{
+    font-size: 25px;
+    float:right;
+    margin-right:200px;
+}
+#spree{
+    outline: 50px;
+    outline-color: blueviolet;
+}
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    animation-name:example;
+    animation-duration:10s;
+    margin-top:50px;
+    animation-iteration-count: infinite;
+}
